@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Previous application number (applicable_4a92c7</name>
+   <tag></tag>
+   <elementGuidId>0d3cc280-6ba3-4592-94ba-257001662480</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wizard-tabview']/div[2]/div/div/div[2]/div[3]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-radiobutton-box</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bff69f32-993f-4de9-a515-34c16fe5095f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-radiobutton-box</value>
+      <webElementGuid>857c6989-cb9c-42b0-9638-90130fdcf231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>f9473678-9aeb-4266-9623-f924fb56d46d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-checked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ad23d4f5-1b07-48a0-bf0d-cc49fecc31e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wizard-tabview&quot;)/div[@class=&quot;p-tabview-panels&quot;]/div[@class=&quot;p-tabview-panel&quot;]/div[@class=&quot;main-section&quot;]/div[@class=&quot;main-section-content p-fluid grid&quot;]/div[@class=&quot;field col-12 md:col-12&quot;]/div[@class=&quot;field-radiobutton&quot;]/div[@class=&quot;p-radiobutton p-component&quot;]/div[@class=&quot;p-radiobutton-box&quot;]</value>
+      <webElementGuid>fb08cf33-e5fd-40ca-8700-d2175021fd7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wizard-tabview']/div[2]/div/div/div[2]/div[3]/div/div/div[2]</value>
+      <webElementGuid>3b787bac-3513-4f1a-9418-d60e6cb23dd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous application number (applicable for amendments to previously approved applications)'])[1]/following::div[4]</value>
+      <webElementGuid>d3848c6a-e140-49e0-bd0d-96a34934a43e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pisy@azaas.com'])[2]/following::div[5]</value>
+      <webElementGuid>de388cc9-c8f5-41f2-b080-f67f80a042e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::div[2]</value>
+      <webElementGuid>ed5f603d-8ccd-4a14-b144-2ac212b1f266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::div[6]</value>
+      <webElementGuid>5454cd8a-3228-4b85-9f10-433d485d9d66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]</value>
+      <webElementGuid>49c75eda-4f80-42a1-9f7a-aa6b98619169</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

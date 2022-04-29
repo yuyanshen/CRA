@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_(c) CRA may refuse to consider any applic_299f76</name>
+   <tag></tag>
+   <elementGuidId>cdb96db5-589b-444e-b5dd-e225d4076296</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='infoPrint']/div/p[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4316b6aa-de39-428d-910a-8ae978c04af0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ql-indent-1</value>
+      <webElementGuid>c8b424b0-934c-4f90-9eed-697b40eec725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(c) CRA may refuse to consider any application which is incomplete.</value>
+      <webElementGuid>630ca62c-3a8a-4246-a47f-9456a2cf448c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;infoPrint&quot;)/div[1]/p[@class=&quot;ql-indent-1&quot;]</value>
+      <webElementGuid>c7541d3f-4568-45c3-bcd8-138e11124200</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='infoPrint']/div/p[3]</value>
+      <webElementGuid>2c50b9d9-8bfe-49f2-863b-184224fd5d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::p[3]</value>
+      <webElementGuid>abc61a93-41f3-4644-afac-ecddd43416f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP CO (approval) info'])[2]/following::p[3]</value>
+      <webElementGuid>a0263b51-9d9c-4b3f-afc7-80010cb64217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application/notification forms specific (Notes to applicant)'])[1]/preceding::p[4]</value>
+      <webElementGuid>20f86571-3016-47ee-9237-84873e9edb9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::p[6]</value>
+      <webElementGuid>423c32bd-1a1c-4829-8d97-e27f332ba83d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(c) CRA may refuse to consider any application which is incomplete.']/parent::*</value>
+      <webElementGuid>8de9b3cf-e5c9-4f48-94aa-df337f5d0834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]</value>
+      <webElementGuid>6b849ef7-1929-4052-bae0-7d4d79bef9a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '(c) CRA may refuse to consider any application which is incomplete.' or . = '(c) CRA may refuse to consider any application which is incomplete.')]</value>
+      <webElementGuid>0e50d1ed-eb21-4231-99ab-7f5491d1fa5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

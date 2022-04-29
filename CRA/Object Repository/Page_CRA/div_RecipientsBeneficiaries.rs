@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RecipientsBeneficiaries</name>
+   <tag></tag>
+   <elementGuidId>a7e63da0-ba34-450a-be9a-adbe5592d849</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wizard-tabview']/div[2]/div/div/div[2]/div[12]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d4fc42fd-ac7f-409d-b790-2e274d59f5ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field col-12 md:col-12</value>
+      <webElementGuid>8a1fa312-f082-47ee-87c8-f78e43b1ee4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recipients/Beneficiaries:</value>
+      <webElementGuid>82e69d28-c24e-4ad7-bd0f-1074e5020b40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wizard-tabview&quot;)/div[@class=&quot;p-tabview-panels&quot;]/div[@class=&quot;p-tabview-panel&quot;]/div[@class=&quot;main-section&quot;]/div[@class=&quot;main-section-content p-fluid grid&quot;]/div[@class=&quot;field col-12 md:col-12&quot;]</value>
+      <webElementGuid>d4674675-513c-4402-9aa8-5bdb6ab8c915</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wizard-tabview']/div[2]/div/div/div[2]/div[12]</value>
+      <webElementGuid>63a498ad-bf47-4750-bc6c-d0b8d60f0fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Donations'])[1]/following::div[2]</value>
+      <webElementGuid>e6606c90-5cd7-4f8b-840a-f00bd1c2f59e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contribution type'])[1]/following::div[6]</value>
+      <webElementGuid>6ea4dc77-20d3-407a-adb5-13a57faa040e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items Contributed'])[1]/preceding::div[1]</value>
+      <webElementGuid>b9a0c82c-e0df-49de-b0f9-8521d34d8d3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]</value>
+      <webElementGuid>78d1061b-ad36-4526-b4f7-f77e728fa9ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Recipients/Beneficiaries:' or . = 'Recipients/Beneficiaries:')]</value>
+      <webElementGuid>b531116b-3c67-4263-8bb4-cf5b84c9432d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

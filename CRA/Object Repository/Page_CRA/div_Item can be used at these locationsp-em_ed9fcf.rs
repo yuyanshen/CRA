@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Item can be used at these locationsp-em_ed9fcf</name>
+   <tag></tag>
+   <elementGuidId>a51a93f4-4e06-4712-aabb-201f88a330fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wizard-tabview']/div[2]/div/div/div[2]/div[14]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>59f23580-8744-4c02-bba8-d7a456518f36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field col-12 md:col-12</value>
+      <webElementGuid>49ac277f-8e34-4a47-b0eb-9b3eeea2eb80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Item can be used at these locationsp-emptylabel</value>
+      <webElementGuid>3dc6edb2-1e04-4490-8aab-a1109f06a3af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wizard-tabview&quot;)/div[@class=&quot;p-tabview-panels&quot;]/div[@class=&quot;p-tabview-panel&quot;]/div[@class=&quot;main-section&quot;]/div[@class=&quot;main-section-content p-fluid grid&quot;]/div[@class=&quot;field col-12 md:col-12&quot;]</value>
+      <webElementGuid>5470e0a8-60e4-4299-92a5-24376b1a8a68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wizard-tabview']/div[2]/div/div/div[2]/div[14]</value>
+      <webElementGuid>38b9eb01-1acf-4fb3-964b-c12cd8c55e3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash'])[1]/following::div[2]</value>
+      <webElementGuid>f8eee80f-21e5-40f9-a89c-673add366faa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items Contributed'])[1]/following::div[6]</value>
+      <webElementGuid>bb9d7f3c-a5a2-4810-83d9-96c19608d61a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]</value>
+      <webElementGuid>49ecb6b6-1a0c-4499-9a8c-26fc73f244c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Item can be used at these locationsp-emptylabel' or . = 'Item can be used at these locationsp-emptylabel')]</value>
+      <webElementGuid>97733507-b737-4e89-ab08-ecb103cba6f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

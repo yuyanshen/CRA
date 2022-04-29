@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SCC_UPLOAD</name>
+   <tag></tag>
+   <elementGuidId>fb0de581-109d-4d8d-81e5-f023972c901e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='File Attachment'])[2]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body > div.p-dialog-mask.p-component-overlay.p-component-overlay-enter > div > div.p-dialog-content > div > div:nth-child(3) > div > div > div.p-fileupload-buttonbar > span > input[type=file]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>56b8dbbe-6a15-49dd-b3a8-6bd51e065773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component p-fileupload-choose p-focus</value>
+      <webElementGuid>9e07de4c-07a9-4cd4-ab29-e0c6ce23be4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e6823527-b400-434c-ae4e-582d56d8e1ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose</value>
+      <webElementGuid>7dd36c5d-1a24-41e2-ad6d-97c945f0fdd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/div[@class=&quot;p-dialog-mask p-component-overlay p-component-overlay-enter&quot;]/div[@class=&quot;p-dialog p-component&quot;]/div[@class=&quot;p-dialog-content&quot;]/div[@class=&quot;p-fluid&quot;]/div[@class=&quot;required field col-12 md:col-12&quot;]/div[@class=&quot;fileupload-input-container&quot;]/div[@class=&quot;p-fileupload p-fileupload-advanced p-component&quot;]/div[@class=&quot;p-fileupload-buttonbar&quot;]/span[@class=&quot;p-button p-component p-fileupload-choose p-focus&quot;]</value>
+      <webElementGuid>05421f04-631d-4ec6-944a-ca1acabc555e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Attachment'])[2]/following::span[1]</value>
+      <webElementGuid>c005416e-9873-4b10-928a-9aac874b7c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Title'])[2]/following::span[1]</value>
+      <webElementGuid>287891ec-ceaf-419f-b83b-78653150e460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[4]</value>
+      <webElementGuid>1f9267a6-07c0-4806-b36a-69300fbfe543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/span</value>
+      <webElementGuid>bccf04ab-c8e9-48e7-a70f-baae25540a09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Choose' or . = 'Choose')]</value>
+      <webElementGuid>9a525ab2-91d0-4f4a-8cc3-d17aeb652a08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

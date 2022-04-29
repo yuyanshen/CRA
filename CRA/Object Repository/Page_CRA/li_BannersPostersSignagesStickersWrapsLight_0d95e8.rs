@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_BannersPostersSignagesStickersWrapsLight_0d95e8</name>
+   <tag></tag>
+   <elementGuidId>2f10b345-915d-4473-8f6d-9b4a5c497dfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.p-dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2df348fa-31c6-47f3-8e7c-f5aeeb346593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-item</value>
+      <webElementGuid>7e370a8e-b890-406b-a631-f7af8845612a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>b6f4c992-420f-4680-8107-f1e7cebdadbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Banners/Posters/Signages/Stickers/Wraps/Lightboxes/Notice Boards/ Brochures/Flyers/Leaflets/ Digital Graphics/Video Recordings</value>
+      <webElementGuid>9c16bf34-22ac-4765-b00c-c7b56a57d751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>78c863ac-fc85-4828-a870-d46610d8c723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Banners/Posters/Signages/Stickers/Wraps/Lightboxes/Notice Boards/ Brochures/Flyers/Leaflets/ Digital Graphics/Video Recordings</value>
+      <webElementGuid>c2c2a148-268e-4524-803d-5a1e3f3cd702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/div[@class=&quot;p-dropdown-panel p-component&quot;]/div[@class=&quot;p-dropdown-items-wrapper&quot;]/ul[@class=&quot;p-dropdown-items&quot;]/li[@class=&quot;p-dropdown-item&quot;]</value>
+      <webElementGuid>34fc7fc9-1d4b-4812-8d35-91e6a2140773</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::li[1]</value>
+      <webElementGuid>c27d26ed-7423-4282-83af-c108917cb3dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::li[1]</value>
+      <webElementGuid>58298f5b-f093-4131-bac8-c60bca3e0d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Banners/Posters/Signages/Stickers/Wraps/Lightboxes/Notice Boards/ Brochures/Flyers/Leaflets/ Digital Graphics/Video Recordings']/parent::*</value>
+      <webElementGuid>2e1c70e1-2e5d-4cd4-9d71-8cae21b50297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/ul/li</value>
+      <webElementGuid>2dfdb04f-9876-449c-b00c-68b9088b6c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Banners/Posters/Signages/Stickers/Wraps/Lightboxes/Notice Boards/ Brochures/Flyers/Leaflets/ Digital Graphics/Video Recordings' or . = 'Banners/Posters/Signages/Stickers/Wraps/Lightboxes/Notice Boards/ Brochures/Flyers/Leaflets/ Digital Graphics/Video Recordings')]</value>
+      <webElementGuid>87ff6b9d-6ced-45a2-832d-cd675a93db8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

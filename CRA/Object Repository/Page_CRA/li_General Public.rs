@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_General Public</name>
+   <tag></tag>
+   <elementGuidId>968a12bd-013d-4e31-ad58-9824cbeee1c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@class = 'p-multiselect-item' and @role = 'option' and not(contains(@aria-label, 'General Public')) and (not(contains(text(), 'General Public')) or not(contains(., 'General Public')))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a74b81e1-28b6-48a4-98f2-e5dd950e4e5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-multiselect-item</value>
+      <webElementGuid>c21434b5-3b00-420f-be85-67ee9750720d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>6998263e-795f-495b-82f9-aa40a1f046e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d0b72146-6b4d-4198-84e5-7ff8784b2f19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7b5d8bdd-1d97-42f9-9d88-be08839cc425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>not contain</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>General Public</value>
+      <webElementGuid>24116313-3f1c-4765-9bc9-31663456285f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>not contain</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Public</value>
+      <webElementGuid>b669755d-ae06-4a7d-ab98-f513ad53bb1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;p-multiselect-panel p-component&quot;]/div[@class=&quot;p-multiselect-items-wrapper&quot;]/ul[@class=&quot;p-multiselect-items p-component&quot;]/li[@class=&quot;p-multiselect-item&quot;]</value>
+      <webElementGuid>ad792239-b944-445c-af3d-0df3e1dc84c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c23981c4-0d90-467e-b67a-275a0c3ddaf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-multiselect-item</value>
+      <webElementGuid>d563ba61-4477-4575-b07b-f3114320009f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>a456001a-f97c-4036-ae49-17c4d0024884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3f351159-fd72-4342-a428-17a086b38215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>eec97406-ad25-4871-8b92-af568b73069f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>not contain</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>General Public</value>
+      <webElementGuid>cebc9309-108e-41fe-b902-a17828a280dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>not contain</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Public</value>
+      <webElementGuid>2f24ac3e-b0e3-4eb9-a70a-25779d550295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;p-multiselect-panel p-component&quot;]/div[@class=&quot;p-multiselect-items-wrapper&quot;]/ul[@class=&quot;p-multiselect-items p-component&quot;]/li[@class=&quot;p-multiselect-item&quot;]</value>
+      <webElementGuid>ee28d37c-b7c6-4ab1-9eb5-8464dee99e49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Existing Account Holders'])[1]/following::li[1]</value>
+      <webElementGuid>b31c77e6-7d5a-44d3-b810-94bbb28418de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Account Holders'])[1]/preceding::li[1]</value>
+      <webElementGuid>643fd513-63a0-40dc-b46e-1eb6b40e0431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]</value>
+      <webElementGuid>8b4deedc-fe4f-460a-bce6-e6e843a3f2d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'General Public' or . = 'General Public')]</value>
+      <webElementGuid>d09e2137-59e5-42b2-81c2-fffb26a45ad0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

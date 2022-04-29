@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_i)This application is for approval of cas_e6df45</name>
+   <tag></tag>
+   <elementGuidId>16fe7002-7912-4e8a-80e2-ff92c79d9cb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='infoPrint']/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3bcf429d-50c7-481f-af17-eed17005365e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>i) This application is for approval of casino advertisement or casino promotion pursuant to regulation 3(1) of the Casino Control (Advertising) Regulations 2010.</value>
+      <webElementGuid>68700b2d-5e18-4e9e-9d74-b380626c8f35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;infoPrint&quot;)/div[2]/p[1]</value>
+      <webElementGuid>3593d42a-50fe-4811-8601-d95b6fca6bfa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='infoPrint']/div[2]/p</value>
+      <webElementGuid>436dbed5-8b75-4428-a3b8-d12d0bf6fc57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application/notification forms specific (Notes to applicant)'])[1]/following::p[1]</value>
+      <webElementGuid>4eca144c-0252-477f-baad-a676cc5e2973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::p[7]</value>
+      <webElementGuid>ffb7a75f-5030-4b74-b1ed-eecfe191c4bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::p[2]</value>
+      <webElementGuid>f66b7cc5-ac59-441d-9261-4c2167f0a7ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/preceding::p[2]</value>
+      <webElementGuid>dd62f495-2abf-4425-8931-aae96808a54a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='i) This application is for approval of casino advertisement or casino promotion pursuant to regulation 3(1) of the Casino Control (Advertising) Regulations 2010.']/parent::*</value>
+      <webElementGuid>e6068fa4-5a6b-4dc2-a6f9-4abfc9594032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>6b68e353-d05e-4672-a679-88bc073d22d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'i) This application is for approval of casino advertisement or casino promotion pursuant to regulation 3(1) of the Casino Control (Advertising) Regulations 2010.' or . = 'i) This application is for approval of casino advertisement or casino promotion pursuant to regulation 3(1) of the Casino Control (Advertising) Regulations 2010.')]</value>
+      <webElementGuid>00402928-dc91-475a-8de7-b7f7644b3f2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

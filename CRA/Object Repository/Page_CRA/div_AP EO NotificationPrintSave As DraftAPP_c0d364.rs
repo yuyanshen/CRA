@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AP EO NotificationPrintSave As DraftAPP_c0d364</name>
+   <tag></tag>
+   <elementGuidId>e171a338-29e0-4421-82f9-9e1384600d06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.layout-main</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0a80b3e6-54ef-4d18-96c5-d1981d63fbc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>layout-main</value>
+      <webElementGuid>c0c9cc64-f43f-4db5-b75d-105d802a8306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AP EO NotificationPrintSave As DraftAPPLICATION *ATTACHMENT *PREVIEWAPPLICATIONAdvertising and/or Promotion (“AP”)Please specify relevant approved AP for notificationAP titlePromotion run durationStart date End date AP target audiencesGeneral PublicAP details/description: This notification for the approved advertising and/or promotion is in accordance with the approval granted for SPPL/NADP/A/220421/0202 and any such conditions imposed. YesNoDocuments attachment *AddDocument TypeDocument TitleFile AttachmentActionsDocument TypeFactsheet/Terms and Conditions/Information SheetDocument TitleTEST TEXTFile Attachment myslot.txtActionsDeletePreviousNextFinish</value>
+      <webElementGuid>2e6ae8ed-8e18-4403-957b-29d64395e5fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper layout-static&quot;]/div[@class=&quot;layout-main-container&quot;]/div[@class=&quot;layout-main&quot;]</value>
+      <webElementGuid>75067abc-9523-40c2-9c43-d2bb37d27d39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[4]/div</value>
+      <webElementGuid>382b3a22-710e-468e-9df4-c020fb961720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP EO Notification info'])[1]/following::div[2]</value>
+      <webElementGuid>c264e597-0e0f-4893-8240-8b500fca266c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP EO (approval) info'])[1]/following::div[2]</value>
+      <webElementGuid>d50b7f4f-8b1f-465d-8cba-98ebb7c609d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>67272831-ed22-494f-bd8b-3ab0c959a3eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AP EO NotificationPrintSave As DraftAPPLICATION *ATTACHMENT *PREVIEWAPPLICATIONAdvertising and/or Promotion (“AP”)Please specify relevant approved AP for notificationAP titlePromotion run durationStart date End date AP target audiencesGeneral PublicAP details/description: This notification for the approved advertising and/or promotion is in accordance with the approval granted for SPPL/NADP/A/220421/0202 and any such conditions imposed. YesNoDocuments attachment *AddDocument TypeDocument TitleFile AttachmentActionsDocument TypeFactsheet/Terms and Conditions/Information SheetDocument TitleTEST TEXTFile Attachment myslot.txtActionsDeletePreviousNextFinish' or . = 'AP EO NotificationPrintSave As DraftAPPLICATION *ATTACHMENT *PREVIEWAPPLICATIONAdvertising and/or Promotion (“AP”)Please specify relevant approved AP for notificationAP titlePromotion run durationStart date End date AP target audiencesGeneral PublicAP details/description: This notification for the approved advertising and/or promotion is in accordance with the approval granted for SPPL/NADP/A/220421/0202 and any such conditions imposed. YesNoDocuments attachment *AddDocument TypeDocument TitleFile AttachmentActionsDocument TypeFactsheet/Terms and Conditions/Information SheetDocument TitleTEST TEXTFile Attachment myslot.txtActionsDeletePreviousNextFinish')]</value>
+      <webElementGuid>8e66b317-e35d-4776-806d-943eddf6f0fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

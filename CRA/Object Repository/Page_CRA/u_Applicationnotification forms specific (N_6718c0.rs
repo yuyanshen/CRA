@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>u_Applicationnotification forms specific (N_6718c0</name>
+   <tag></tag>
+   <elementGuidId>d80d19b0-8369-44a5-a67c-c299b9ff72e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='infoPrint']/div[2]/h2/u</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>u</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>u</value>
+      <webElementGuid>e366abf6-290b-484d-9e2a-79e407dc0ee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Application/notification forms specific (Notes to applicant)</value>
+      <webElementGuid>4c88075d-0a04-4822-a891-21cf7717730a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;infoPrint&quot;)/div[2]/h2[1]/u[1]</value>
+      <webElementGuid>2c656f0f-4e1c-4970-acc9-7813dd50390b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='infoPrint']/div[2]/h2/u</value>
+      <webElementGuid>c4b09566-8734-4abe-9b78-296f05ff4b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::u[1]</value>
+      <webElementGuid>7d418219-7750-4e6b-9e56-63288765e113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP CO (approval) info'])[2]/following::u[1]</value>
+      <webElementGuid>ecd85cda-0920-49f2-8772-25d737a5501e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::u[1]</value>
+      <webElementGuid>ebe3dfe7-f688-40f3-9099-440b619060df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/preceding::u[1]</value>
+      <webElementGuid>de11082d-fca9-4c5d-9072-e702444abaf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Application/notification forms specific (Notes to applicant)']/parent::*</value>
+      <webElementGuid>b8f89df9-546e-4f37-9cf3-852bc085fdbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//u</value>
+      <webElementGuid>fd0f7b70-29b9-4773-8847-65caf09d97ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//u[(text() = 'Application/notification forms specific (Notes to applicant)' or . = 'Application/notification forms specific (Notes to applicant)')]</value>
+      <webElementGuid>f2b0dae7-ac50-434b-8c13-69a2df36d8de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

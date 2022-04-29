@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_It is an offence to provide false or misl_a6a6fe</name>
+   <tag></tag>
+   <elementGuidId>c645af8c-3428-402e-8b13-b58c6acb0c35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='infoPrint']/div/p[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fdc0d793-c6e3-4fa7-b675-9b03dfa970cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ql-indent-1</value>
+      <webElementGuid>37072897-b338-4531-ac44-5ec3907e4676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>It is an offence to provide false or misleading information in connection with any application made to the CRA. </value>
+      <webElementGuid>191d4d5b-61f0-4c7a-ba1a-95fb5362df32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;infoPrint&quot;)/div[1]/p[@class=&quot;ql-indent-1&quot;]</value>
+      <webElementGuid>2d15ef0b-59cf-493a-ae34-6ab24751fd6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='infoPrint']/div/p[5]</value>
+      <webElementGuid>f7a740e6-8e86-4a50-9e92-4b7c3a1a8a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::p[5]</value>
+      <webElementGuid>5e4f5903-9f04-47b8-917a-cfce1b29fe08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP CO (approval) info'])[2]/following::p[5]</value>
+      <webElementGuid>5e4900a8-1359-4c8c-859b-1c92bf8fadbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application/notification forms specific (Notes to applicant)'])[1]/preceding::p[2]</value>
+      <webElementGuid>7e6a58dc-3015-469b-8052-3a4338d8e451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::p[4]</value>
+      <webElementGuid>c3c78460-a351-473e-a1af-3083b142fd06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[5]</value>
+      <webElementGuid>6985b581-af31-4e46-9c58-cb60ad1ab729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'It is an offence to provide false or misleading information in connection with any application made to the CRA. ' or . = 'It is an offence to provide false or misleading information in connection with any application made to the CRA. ')]</value>
+      <webElementGuid>0a3e60f2-c196-4096-82da-4e7b10668412</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

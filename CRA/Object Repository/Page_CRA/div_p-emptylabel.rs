@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_p-emptylabel</name>
+   <tag></tag>
+   <elementGuidId>8d23c22f-01cd-4c81-9894-5b1f7748cfc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wizard-tabview']/div[2]/div/div/div[2]/div[14]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-dropdown.p-component.p-inputwrapper.p-inputwrapper-filled.show-all-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>440ecff2-0ae9-468f-a404-4943e818d0b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown p-component p-inputwrapper p-inputwrapper-filled show-all-label</value>
+      <webElementGuid>a4b132a5-7ec4-41f3-b661-2b7ce0664884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>p-emptylabel</value>
+      <webElementGuid>cdd39a2b-ee7e-4ed2-8de4-5b666b9ba477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wizard-tabview&quot;)/div[@class=&quot;p-tabview-panels&quot;]/div[@class=&quot;p-tabview-panel&quot;]/div[@class=&quot;main-section&quot;]/div[@class=&quot;main-section-content p-fluid grid&quot;]/div[@class=&quot;field col-12 md:col-12&quot;]/div[@class=&quot;p-dropdown p-component p-inputwrapper p-inputwrapper-filled show-all-label&quot;]</value>
+      <webElementGuid>438941f1-e2d3-4f88-bce9-8d95022fe79f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wizard-tabview']/div[2]/div/div/div[2]/div[14]/div</value>
+      <webElementGuid>e66f2979-0822-4b9d-9ed7-eeeb39a6eb36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item can be used at these locations'])[1]/following::div[1]</value>
+      <webElementGuid>c0dd6ca4-f9a2-43df-9ff0-461488928a8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item Value'])[1]/preceding::div[3]</value>
+      <webElementGuid>981f8fe5-9d6b-43c3-8219-f291747dba2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div</value>
+      <webElementGuid>9fe3bfa4-fcfe-4434-9f28-191891f36242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'p-emptylabel' or . = 'p-emptylabel')]</value>
+      <webElementGuid>3ff85d5f-1ca7-4d96-932a-e523779b4d33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

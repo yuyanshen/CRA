@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_(a) The accurate completion and timely su_a2d3e0</name>
+   <tag></tag>
+   <elementGuidId>7429045e-d8d8-45ec-9fd0-1d9d46c039df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='infoPrint']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.ql-indent-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>71f266e6-a504-432b-8558-6cb175ef306b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ql-indent-1</value>
+      <webElementGuid>decc89fb-9f09-41a5-ac79-5c50f99e0ee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(a) The accurate completion and timely submission of the application and supporting documents are essential for the CRA's evaluation of the application.</value>
+      <webElementGuid>e127da14-0f25-4c83-a5af-38976b58eac8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;infoPrint&quot;)/div[1]/p[@class=&quot;ql-indent-1&quot;]</value>
+      <webElementGuid>6a8b1e44-42c0-4cf5-b9fa-620f1287ce84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='infoPrint']/div/p</value>
+      <webElementGuid>c2f96007-5403-4ae9-9cae-07b6edcc8e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::p[1]</value>
+      <webElementGuid>db431497-361c-426d-8558-d446d3788b8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP CO (approval) info'])[2]/following::p[1]</value>
+      <webElementGuid>5aed384c-c278-4052-8fb3-13e3c1375243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application/notification forms specific (Notes to applicant)'])[1]/preceding::p[6]</value>
+      <webElementGuid>220c0c79-116a-4c24-8f5f-81b0898a380d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::p[8]</value>
+      <webElementGuid>1c1ddc02-9c31-495a-ac90-4d4b98bff77f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>ddfa7ee4-ad92-4383-a6e5-667863125c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;(a) The accurate completion and timely submission of the application and supporting documents are essential for the CRA&quot; , &quot;'&quot; , &quot;s evaluation of the application.&quot;) or . = concat(&quot;(a) The accurate completion and timely submission of the application and supporting documents are essential for the CRA&quot; , &quot;'&quot; , &quot;s evaluation of the application.&quot;))]</value>
+      <webElementGuid>7bef8878-6d1d-482b-b492-14b60b51c736</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

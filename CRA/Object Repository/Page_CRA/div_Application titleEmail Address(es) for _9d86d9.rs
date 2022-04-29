@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Application titleEmail Address(es) for _9d86d9</name>
+   <tag></tag>
+   <elementGuidId>df2f3d68-c7ac-4b1e-8f2e-f7f1851f7236</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.main-section-content.p-fluid.grid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wizard-tabview']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>92f5f05a-6273-416e-ac0f-c02b2688744a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-section-content p-fluid grid</value>
+      <webElementGuid>e729d306-af78-4837-97b2-1428c586d1ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Application titleEmail Address(es) for CC notificationpisy@azaas.com Previous application number (applicable for amendments to previously approved applications) YesNoIs it a notification (For contributions that are impracticable to obtain prior approval)YesNoContribution durationContribution start date Contribution end date Event start date Event end date All Contribution venues involvedOutside the casino (within the Integrated Resort)Contribution typeDonationsRecipients/Beneficiaries:Items ContributedCashItem can be used at these locationsp-emptylabelItem Value</value>
+      <webElementGuid>7cac894f-f73d-4dd0-b263-179520e01473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wizard-tabview&quot;)/div[@class=&quot;p-tabview-panels&quot;]/div[@class=&quot;p-tabview-panel&quot;]/div[@class=&quot;main-section&quot;]/div[@class=&quot;main-section-content p-fluid grid&quot;]</value>
+      <webElementGuid>aa1011d9-f965-472f-957a-67050f5e59f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5e32fabc-9f63-4610-9879-bb00b7e8c1bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-section-content p-fluid grid</value>
+      <webElementGuid>3c3c957d-0028-481d-bfc1-124c3eee13e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Application titleEmail Address(es) for CC notificationpisy@azaas.com Previous application number (applicable for amendments to previously approved applications) YesNoIs it a notification (For contributions that are impracticable to obtain prior approval)YesNoContribution durationContribution start date Contribution end date Event start date Event end date All Contribution venues involvedOutside the casino (within the Integrated Resort)Contribution typeDonationsRecipients/Beneficiaries:Items ContributedCashItem can be used at these locationsp-emptylabelItem Value</value>
+      <webElementGuid>47a7b0e5-d755-4651-a1f3-2ca7f3d3140e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wizard-tabview&quot;)/div[@class=&quot;p-tabview-panels&quot;]/div[@class=&quot;p-tabview-panel&quot;]/div[@class=&quot;main-section&quot;]/div[@class=&quot;main-section-content p-fluid grid&quot;]</value>
+      <webElementGuid>b6b5e20b-d942-4b25-8536-c21c452e65c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wizard-tabview']/div[2]/div/div/div[2]</value>
+      <webElementGuid>7be330af-a67e-4bac-98f8-eff957949776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLICATION'])[1]/following::div[1]</value>
+      <webElementGuid>4306a53b-44cc-452e-9eba-de0e47cba771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PREVIEW'])[1]/following::div[5]</value>
+      <webElementGuid>bb41b468-94eb-4546-8a6a-f2debd54a61f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>498d10bd-9301-4463-9d8f-4785da6e2b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Application titleEmail Address(es) for CC notificationpisy@azaas.com Previous application number (applicable for amendments to previously approved applications) YesNoIs it a notification (For contributions that are impracticable to obtain prior approval)YesNoContribution durationContribution start date Contribution end date Event start date Event end date All Contribution venues involvedOutside the casino (within the Integrated Resort)Contribution typeDonationsRecipients/Beneficiaries:Items ContributedCashItem can be used at these locationsp-emptylabelItem Value' or . = 'Application titleEmail Address(es) for CC notificationpisy@azaas.com Previous application number (applicable for amendments to previously approved applications) YesNoIs it a notification (For contributions that are impracticable to obtain prior approval)YesNoContribution durationContribution start date Contribution end date Event start date Event end date All Contribution venues involvedOutside the casino (within the Integrated Resort)Contribution typeDonationsRecipients/Beneficiaries:Items ContributedCashItem can be used at these locationsp-emptylabelItem Value')]</value>
+      <webElementGuid>b1515b89-6ff2-4bba-acd3-9b6e6924130a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

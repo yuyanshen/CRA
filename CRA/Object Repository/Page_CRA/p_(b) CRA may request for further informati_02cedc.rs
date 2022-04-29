@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_(b) CRA may request for further informati_02cedc</name>
+   <tag></tag>
+   <elementGuidId>e4c9a591-3861-4177-9d86-a65b1baffd0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='infoPrint']/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>576da355-cb30-4773-a01a-0a5661f04d0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ql-indent-1</value>
+      <webElementGuid>d92fb402-27b2-4565-ba39-5e49e3abaeac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(b) CRA may request for further information in relation to the application at any time as it may consider necessary.</value>
+      <webElementGuid>2aecc0ac-01d8-4e82-97fb-0d29778a108d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;infoPrint&quot;)/div[1]/p[@class=&quot;ql-indent-1&quot;]</value>
+      <webElementGuid>110d320b-3811-4db6-b775-0ac706b9701b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='infoPrint']/div/p[2]</value>
+      <webElementGuid>93325832-a7c0-4d32-8c41-420f764e5e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::p[2]</value>
+      <webElementGuid>90179300-4cfc-403a-90d4-8fe4edf50105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP CO (approval) info'])[2]/following::p[2]</value>
+      <webElementGuid>36f4030d-2dce-403c-9054-da67a9572076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application/notification forms specific (Notes to applicant)'])[1]/preceding::p[5]</value>
+      <webElementGuid>b10bfb3f-ca49-40e8-95f2-98caab81647e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::p[7]</value>
+      <webElementGuid>57441c83-04f6-4943-a38f-2bdbe2fa963f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(b) CRA may request for further information in relation to the application at any time as it may consider necessary.']/parent::*</value>
+      <webElementGuid>0989edc3-0d29-4c28-bf9e-b49120a41317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>d59d1f16-d77a-418f-9ebb-9ac6fdd71281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '(b) CRA may request for further information in relation to the application at any time as it may consider necessary.' or . = '(b) CRA may request for further information in relation to the application at any time as it may consider necessary.')]</value>
+      <webElementGuid>01b01ea8-a7dc-42e7-9979-28f31191d6f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

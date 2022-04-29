@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Print_p-ink</name>
+   <tag></tag>
+   <elementGuidId>996ea211-6bcc-4fb2-ba85-e9a02225be90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[4]/div/div/div[2]/div[2]/div/button[2]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.p-button-primary.p-button-outlined.p-button-sm > span.p-ink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3f88f29e-9799-4ddc-a494-7c3c78f91e65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink</value>
+      <webElementGuid>f8fae8d9-588e-4757-90e1-1499f7a0e2a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper layout-static&quot;]/div[@class=&quot;layout-main-container&quot;]/div[@class=&quot;layout-main&quot;]/div[1]/div[@class=&quot;main-content&quot;]/div[@class=&quot;footer-button-section&quot;]/div[@class=&quot;footer-button-actions&quot;]/button[@class=&quot;p-button p-component p-button-primary p-button-outlined p-button-sm&quot;]/span[@class=&quot;p-ink&quot;]</value>
+      <webElementGuid>45e87bb5-3a03-42b2-bde9-aadd5b375532</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[4]/div/div/div[2]/div[2]/div/button[2]/span[2]</value>
+      <webElementGuid>43a288de-9fc6-43ee-a6dc-4151b369841f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span[2]</value>
+      <webElementGuid>bcdfd3c3-c240-4701-ad86-ceb8a944b4a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

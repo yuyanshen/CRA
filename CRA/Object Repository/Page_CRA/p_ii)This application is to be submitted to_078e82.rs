@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_ii)This application is to be submitted to_078e82</name>
+   <tag></tag>
+   <elementGuidId>f7ad5922-7da6-4953-b5dc-4800d5eacd6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='infoPrint']/div[2]/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>de6200a4-f8c1-4699-a42c-6f79e9f27d8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ii) This application is to be submitted to the Authority at least 21 days before the proposed date of the publication or distribution of the advertisement or carrying out or offering of the promotion or date of the proposed deviation, or within such shorter period as the Authority may allow in any particular case. </value>
+      <webElementGuid>9a2d2b82-6056-4b61-a6eb-e15ae1f3a69f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;infoPrint&quot;)/div[2]/p[2]</value>
+      <webElementGuid>f7af92c9-7ec5-4547-b7f0-2d639e65bae4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='infoPrint']/div[2]/p[2]</value>
+      <webElementGuid>8bac02bf-5625-4d78-b64c-441db44df9bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application/notification forms specific (Notes to applicant)'])[1]/following::p[2]</value>
+      <webElementGuid>e60c6149-8741-460f-9dc2-c4fa71254322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::p[8]</value>
+      <webElementGuid>e217360a-6c72-4b07-9307-f790aceb690c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::p[1]</value>
+      <webElementGuid>7d025b55-230d-469c-b7c3-e4bf288b1f90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/preceding::p[1]</value>
+      <webElementGuid>7e0cda56-55b3-453b-b3e0-853d9aea3163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p[2]</value>
+      <webElementGuid>85be5a36-9a3c-4dcf-9e24-5daa888e36f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'ii) This application is to be submitted to the Authority at least 21 days before the proposed date of the publication or distribution of the advertisement or carrying out or offering of the promotion or date of the proposed deviation, or within such shorter period as the Authority may allow in any particular case. ' or . = 'ii) This application is to be submitted to the Authority at least 21 days before the proposed date of the publication or distribution of the advertisement or carrying out or offering of the promotion or date of the proposed deviation, or within such shorter period as the Authority may allow in any particular case. ')]</value>
+      <webElementGuid>62e18cbb-c06e-405f-9787-1c14e61b6903</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

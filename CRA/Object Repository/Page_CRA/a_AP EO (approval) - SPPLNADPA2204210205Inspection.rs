@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_AP EO (approval) - SPPLNADPA2204210205Inspection</name>
+   <tag></tag>
+   <elementGuidId>feba2e0d-90e1-4c6d-943d-d11cb24aa126</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[4]/div/div/div/div/div[2]/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7c459e54-71a2-4ba5-aa92-ae50a12a8274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/aPEoApproval?SN=</value>
+      <webElementGuid>aaa6dc38-9bc9-4b61-b2d6-a11242a2ae65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-column md:flex-row md:align-items-center md:justify-content-between</value>
+      <webElementGuid>90ea9662-ab3a-4c81-913e-68d7704b2000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AP EO (approval) - SPPL/NADP</value>
+      <webElementGuid>a41e5256-cf27-403f-a9a9-029969f9a6d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper layout-static&quot;]/div[@class=&quot;layout-main-container&quot;]/div[@class=&quot;layout-main&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-12 xl:col-6&quot;]/div[@class=&quot;card dashboard-card&quot;]/div[2]/div[1]/ul[@class=&quot;dashboard-list list-none p-0 m-0&quot;]/li[1]/a[@class=&quot;flex flex-column md:flex-row md:align-items-center md:justify-content-between&quot;]</value>
+      <webElementGuid>4f7256a2-3cb8-4317-af4d-84fae1b79d99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[4]/div/div/div/div/div[2]/div/ul/li/a</value>
+      <webElementGuid>dacd5a0a-cf6c-4f7c-95a5-d08a319ea2f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[1]/following::a[1]</value>
+      <webElementGuid>4a498ee9-631c-454c-a9af-7e7fc3b7189a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[1]</value>
+      <webElementGuid>7c735560-9ddd-4297-9af6-559b0ef6b98d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/aPEoApproval?SN=64FC71136227F70CE253E845DB6108FB2855A6F69C9B31A9AFD0F9DCB1FCD7F917032BC29402CDADDF03352B546216C5')]</value>
+      <webElementGuid>a3183d06-dc26-4e46-84d1-18aa492cc29f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li/a</value>
+      <webElementGuid>a4c16edb-b12b-4647-a7d1-3a438983b7c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/aPEoApproval?SN=64FC71136227F70CE253E845DB6108FB2855A6F69C9B31A9AFD0F9DCB1FCD7F917032BC29402CDADDF03352B546216C5' and (text() = 'AP EO (approval) - SPPL/NADP/A/220421/0205Inspection' or . = 'AP EO (approval) - SPPL/NADP/A/220421/0205Inspection')]</value>
+      <webElementGuid>eeb5252d-3e21-4c39-b601-783a3324bd64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

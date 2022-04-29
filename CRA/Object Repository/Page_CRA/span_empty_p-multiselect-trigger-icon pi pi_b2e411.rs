@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_empty_p-multiselect-trigger-icon pi pi_b2e411</name>
+   <tag></tag>
+   <elementGuidId>be553921-f161-454a-91b0-2a741e221329</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wizard-tabview']/div[2]/div/div/div[2]/div[7]/div/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-multiselect-trigger-icon.pi.pi-chevron-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e0d03004-e081-4d92-805e-56031d8e13c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-multiselect-trigger-icon pi pi-chevron-down</value>
+      <webElementGuid>74c6841d-a5fd-456d-84f4-99cf305b3c68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>fale</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wizard-tabview&quot;)/div[@class=&quot;p-tabview-panels&quot;]/div[@class=&quot;p-tabview-panel&quot;]/div[@class=&quot;main-section&quot;]/div[@class=&quot;main-section-content p-fluid grid&quot;]/div[@class=&quot;required field col-12 md:col-12&quot;]/div[@class=&quot;p-multiselect p-component p-inputwrapper p-inputwrapper-focus show-all-label&quot;]/div[@class=&quot;p-multiselect-trigger&quot;]/span[@class=&quot;p-multiselect-trigger-icon pi pi-chevron-down&quot;]</value>
+      <webElementGuid>868bbbf9-a593-4995-aca9-16b62d8460dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wizard-tabview']/div[2]/div/div/div[2]/div[7]/div/div[3]/span</value>
+      <webElementGuid>a9633a2f-89c1-423e-8e1f-d81fb1f730b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>b58a4ff1-2c02-470d-a122-9ebd12fc9802</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

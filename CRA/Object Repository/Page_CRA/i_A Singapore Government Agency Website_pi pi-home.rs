@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_A Singapore Government Agency Website_pi pi-home</name>
+   <tag></tag>
+   <elementGuidId>d1dc3993-dbc2-48d8-9dba-89623cbdb9cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/ul/li/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.pi.pi-home</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ee2225d6-d41e-45fd-873a-9f710d846404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi pi-home</value>
+      <webElementGuid>00b476c9-87a7-4215-9e58-b349098fe441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper layout-static&quot;]/div[@class=&quot;layout-topbar&quot;]/ul[@class=&quot;layout-topbar-menu hidden lg:flex origin-top&quot;]/li[1]/button[@class=&quot;p-link layout-topbar-button&quot;]/i[@class=&quot;pi pi-home&quot;]</value>
+      <webElementGuid>5b1a67a0-4345-4ba5-b4b1-a595b71ac3c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/ul/li/button/i</value>
+      <webElementGuid>4648918a-87d1-49c4-968c-5740096520cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/button/i</value>
+      <webElementGuid>b4fcc38f-4bb5-4af5-84cb-b77f21e09e06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

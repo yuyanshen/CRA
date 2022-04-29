@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Singapore Pools Private Limited outlet</name>
+   <tag></tag>
+   <elementGuidId>e63cbbcb-fdab-4304-bccc-d6acd127db46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Authorized retailer'])[1]/preceding::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.p-multiselect-item</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Singapore Pools Private Limited outlet' or . = 'Singapore Pools Private Limited outlet')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>ea207066-efc9-4122-842b-0a5d3baaa498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-multiselect-item</value>
+      <webElementGuid>b60b7cc6-c5df-4ee5-9328-a98bf3a47f37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>8bef2dda-baca-47e3-800e-9be7a4561ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0bf7688e-cde8-48d0-871e-aa66db572559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3e16820d-7052-46eb-911b-1f961ec41046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Singapore Pools Private Limited outlet</value>
+      <webElementGuid>127ea8c4-afa8-443b-a5bc-a0c9bb56205c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Singapore Pools Private Limited outlet</value>
+      <webElementGuid>2bdaa2d0-fd37-47df-a602-b5339c55949a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;p-multiselect-panel p-component&quot;]/div[@class=&quot;p-multiselect-items-wrapper&quot;]/ul[@class=&quot;p-multiselect-items p-component&quot;]/li[@class=&quot;p-multiselect-item&quot;]</value>
+      <webElementGuid>98f08ea9-0419-477b-9081-3bd7b53709df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authorized retailer'])[1]/preceding::li[1]</value>
+      <webElementGuid>c332899b-d0b1-4ae0-aa61-db884bc3c455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]</value>
+      <webElementGuid>8c8e4fc6-eb9b-46fc-a613-7727a3f485a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Singapore Pools Private Limited outlet' or . = 'Singapore Pools Private Limited outlet')]</value>
+      <webElementGuid>f6b1ab00-6a91-4974-84f2-3ac76b10c14c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

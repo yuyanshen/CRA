@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_(d) Please ensure you have obtained all n_a05eac</name>
+   <tag></tag>
+   <elementGuidId>996e3ac6-2eed-4fc2-8fa6-95390ef1a604</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='infoPrint']/div/p[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9e82fd0f-25bb-4b36-bab0-c816e8547007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ql-indent-1</value>
+      <webElementGuid>05bde5ba-a88d-4b11-92b5-0d0619446380</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(d) Please ensure you have obtained all necessary approval(s) from your management or other relevant authorities (if any) for the information submitted in this application.</value>
+      <webElementGuid>7115998a-687e-4fd1-92c3-ad9a53f9c2dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;infoPrint&quot;)/div[1]/p[@class=&quot;ql-indent-1&quot;]</value>
+      <webElementGuid>c9f265ee-9ecc-4381-8f25-4d3966b08369</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='infoPrint']/div/p[4]</value>
+      <webElementGuid>bf52d573-5891-4898-91ef-9674226681ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::p[4]</value>
+      <webElementGuid>b09bb4fd-e433-4e5a-af65-c2690f3e6174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP CO (approval) info'])[2]/following::p[4]</value>
+      <webElementGuid>7acd9639-00ff-4abb-9e78-9b15c78e7e5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application/notification forms specific (Notes to applicant)'])[1]/preceding::p[3]</value>
+      <webElementGuid>780a949d-278c-46d6-859d-f0d9705c5eb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::p[5]</value>
+      <webElementGuid>8d32b8fb-220a-4d36-95cd-69998535af32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(d) Please ensure you have obtained all necessary approval(s) from your management or other relevant authorities (if any) for the information submitted in this application.']/parent::*</value>
+      <webElementGuid>583b2fa4-458a-42fd-9715-5d5f4b96d020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[4]</value>
+      <webElementGuid>c8f5db24-3867-4796-9d91-6cbc7e2451af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '(d) Please ensure you have obtained all necessary approval(s) from your management or other relevant authorities (if any) for the information submitted in this application.' or . = '(d) Please ensure you have obtained all necessary approval(s) from your management or other relevant authorities (if any) for the information submitted in this application.')]</value>
+      <webElementGuid>1cfcbd1f-d04a-421a-bbe5-f300cf34bf73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
